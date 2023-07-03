@@ -8,7 +8,7 @@ import java.net.URL;
 import javax.swing.SwingUtilities;
 
 public class APICall {
-    private static final String apiKey = "ea9e4ca73b9bca23e33ed90b383481f8";
+    private static final String apiKey = "YOUR API KEY";
     private WeatherGUI gui;
 
     public APICall(WeatherGUI gui) {
